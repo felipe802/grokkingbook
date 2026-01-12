@@ -1,2 +1,2 @@
-# grokkingbook
-algorithms from the book
+# Grokking Algorithms
+Some algorithms from the book
